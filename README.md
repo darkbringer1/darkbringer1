@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Calisthenics Exercise app**
 
-- 🌱 I’m currently a student in **Patika.dev - HepsiBurada iOS Bootcamp**
+- 🌱 I’m graduated from **Patika.dev - HepsiBurada iOS Bootcamp** and currently working in **HepsiBurada**
 
 - 💬 Ask me about **Swift and SwiftUI**
 
