@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/dogukaan-kilicarslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dogukaan-kilicarslan" height="30" width="40" /></a>
 <a href="https://fb.com/dogukaank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dogukaank" height="30" width="40" /></a>
-<a href="https://instagram.com/dogukaan.kilicarslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dogukaan.kilicarslan" height="30" width="40" /></a>
+<a href="https://instagram.com/dogukaan.kilicarslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dogukaan.kilicarslan" height="30" width="40" /></a> <a href="https://medium.com/@dogukaan.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dogukaan.k" height="30" width="40" /></a>
   <h3 align="left">You can also follow my journey becoming an iOS Developer:</h3>
 <a href="https://instagram.com/MyDevelopmentJourney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dogukaan.kilicarslan" height="30" width="40" /></a>
 </p>
