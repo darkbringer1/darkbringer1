@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=darkbringer1&style=flat-square&color=blue)
+
 <h1 align="center">Hi 👋, I'm Doğukaan </h1>
 <h3 align="center">I am aspiring to be an iOS Developer 🖥📲</h3>
 
