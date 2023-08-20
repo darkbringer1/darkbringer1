@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Doğukaan </h1>
 <h3 align="center">iOS Developer 🖥📲</h3>
 
-- 🔭 I’m currently working on **Calisthenics Exercise app**
+- 🔭 I’m currently working on a **Secret app** 🤫
 
 - 🌱 I graduated from **Patika.dev - HepsiBurada iOS Bootcamp** 
 
 - 💻 Currently working in **HepsiBurada - Merchant App**
 
-- 💬 Ask me about **Swift, SwiftUI, Xcode, AWS, Docker, Linux, Jenkins**
+- 💬 Ask me about **Swift, SwiftUI, Xcode, Fastlane, CI/CD, AWS, Docker, Linux, Jenkins**
 
 - 📫 How to reach me:  **dogukaankilicarslan@gmail.com**
 
