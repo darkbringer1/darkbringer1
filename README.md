@@ -5,7 +5,7 @@
 
 - 🌱 I graduated from **Patika.dev - HepsiBurada iOS Bootcamp** 
 
-- 💻 Currently working in **HepsiBurada - Merchant App**
+- 💻 Currently working in **MigrosOne - SanalMarket**
 
 - 💬 Ask me about **Swift, SwiftUI, Xcode, Fastlane, CI/CD, AWS, Docker, Linux, Jenkins**
 
