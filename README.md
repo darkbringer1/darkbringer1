@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doğukaan </h1>
 <h3 align="center">iOS Developer 🖥📲</h3>
 
-- 🔭 I’m currently working on a **Secret app** 🤫
+- 🔭 I’m currently working on the **Buddies App** *Community app for SwiftBuddies community in Istanbul* <a href="[https://linkedin.com/in/dogukaan-kilicarslan](https://github.com/SwiftBuddiesTR/BuddiesIOS)" target="blank"><img align="center" src="https://github.com/SwiftBuddiesTR/BuddiesIOS/blob/dev/Resources/SwiftBuddies-Buddie.png" alt="BuddiesIOS" height="40" width="40" /></a>
 
 - 🌱 I graduated from **Patika.dev - HepsiBurada iOS Bootcamp** 
 
